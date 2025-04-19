@@ -20,7 +20,11 @@ ReduxCruddApp is a Todo app that manages tasks with Redux. It allows users to cr
 - **React-Bootstrap** - UI components
 - **CSS** - Styling
 - **Toastify** - Notifications
-- 
+
+## Preview
+![aRDiDAkP23](https://github.com/user-attachments/assets/48e475cf-a33e-4bc5-b56c-96a9ac5e4e98)
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation
 Follow these steps to run the project locally:
 ```bash
@@ -33,10 +37,10 @@ npm install
 
 # Start the development server
 npm run dev
-```
 
-## Preview
-![Project Screenshot](#) *(Ekran görüntüsünü buraya ekleyebilirsin)*
+# Start json server on another terminal
+npm run server
+```
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact
 For any questions or feedback, feel free to contact:  
