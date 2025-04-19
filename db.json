@@ -1,3 +1,16 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "id": "a83bcc02-4cc1-41a9-86eb-7803f94e8e93",
+      "text": "Mission 1",
+      "is_done": false,
+      "createdAt": 1745084711705
+    },
+    {
+      "id": "7cd8a9d9-24ab-4970-98c9-96be003dac58",
+      "text": "Mission 2",
+      "is_done": true,
+      "createdAt": 1745084768101
+    }
+  ]
 }
